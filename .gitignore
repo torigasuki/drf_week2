@@ -181,7 +181,7 @@ cython_debug/
 Icon
 
 
-# Thumbnails
+# Thumbnailsf
 ._*
 
 # Files that might appear in the root of a volume
@@ -195,7 +195,7 @@ Icon
 
 # Directories potentially created on remote AFP share
 .AppleDB
-.AppleDesktop
+.AppleDesktopgit 
 Network Trash Folder
 Temporary Items
 .apdisk
